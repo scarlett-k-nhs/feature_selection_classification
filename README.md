@@ -5,8 +5,6 @@ This repository contains code and analyses for building an XGBoost model to clas
 
 ## Folder structure
 
-It is important that your project structure looks like the below, otherwise you will struggle to run your code. 
-
 ```text
 +---notebooks
 |   +---Feature_Importance_Cheatsheet        <- This provides example code for feature importance for an XGBoost model.
