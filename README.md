@@ -1,7 +1,7 @@
 # Diabetes & Prediabetes Feature Selection with XGBoost (Feature Selection Workshop)
 
 ## Overview
-This repository contains code and analyses for building an XGBoost model to classify individuals with diabetes based on healthcare and lifestyle survey data. The primary focus is on **feature selection** using a variety of methods to reduce the number of features while **maximising recall** for correctly identifying at-risk individuals. 
+This repository contains code and analyses for building an XGBoost model to classify individuals with diabetes based on healthcare and lifestyle survey data. The primary focus is on **feature selection** using a variety of methods to reduce the number of features while **maximising f1**.
 
 ## Folder structure
 
